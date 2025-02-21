@@ -16,6 +16,8 @@ Ensure that 'Flask' and 'requests' are installed in the System else if it is not
 Open terminal and run as administrator. then run `pip install Flask` then run `pip install requests`
 
 To run the program:
+
+
 Go to the terminal in specified location of the file (C:\Users\xxxx\...)
 1. Run python jokes1.py (file name)
 2. Call the API (using a browser or Postman): http://127.0.0.1:5000/fetch_jokes
