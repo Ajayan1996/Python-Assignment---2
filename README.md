@@ -17,9 +17,9 @@ Open terminal and run as administrator. then run `pip install Flask` then run `p
 
 To run the program:
 Go to the terminal in specified location of the file (C:\Users\xxxx\...)
-1.Run python jokes1.py (file name)
-2.Call the API (using a browser or Postman): http://127.0.0.1:5000/fetch_jokes
-3.Verify Database in SQLite DB: SELECT * FROM jokes;
+1. Run python jokes1.py (file name)
+2. Call the API (using a browser or Postman): http://127.0.0.1:5000/fetch_jokes
+3. Verify Database in SQLite DB: SELECT * FROM jokes;
 
 
 
