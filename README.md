@@ -9,7 +9,9 @@ Prerequisites:
 Since we are importing these in the file 
 
 from flask import Flask, jsonify
+
 import requests
+
 import sqlite3
 
 Ensure that 'Flask' and 'requests' are installed in the System else if it is not installed,
